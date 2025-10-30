@@ -1,11 +1,54 @@
-CHIMERA: A Neuromorphic GPU-Native Intelligence System for Abstract Reasoning Without External Memory Dependencies
-Francisco Angulo de Lafuente
-Independent Researcher
-ARC Prize 2025 Competition Entry
-CHIMERA Neuromorphic Intelligence Project
-Madrid, Spain
-Abstract
-We present CHIMERA (Cognitive Hybrid Intelligence for Memory-Embedded Reasoning Architecture), a revolutionary neuromorphic computing system that achieves general intelligence capabilities entirely within GPU hardware using OpenGL compute shaders, eliminating all dependencies on external RAM or traditional CPU-based memory hierarchies. Unlike conventional neural architectures that treat GPUs merely as accelerators for matrix operations, CHIMERA implements a fundamentally different paradigm where the GPU itself becomes the thinking substrate through a novel "render-as-compute" approach. The system encodes state, memory, computation, and reasoning directly into GPU textures, leveraging fragment shaders as massively parallel cognitive operators. We demonstrate CHIMERA's capabilities on the Abstraction and Reasoning Corpus for Artificial General Intelligence (ARC-AGI) benchmark, achieving 30-65% accuracy depending on configuration through a progression from basic pattern recognition (v9.5) to sophisticated compositional reasoning with spatial awareness, object-level cognition, and program synthesis (v10.0). The architecture processes visual-spatial transformations at 10-20 tasks per second on consumer GPUs while maintaining complete computational self-sufficiency within video memory. Our results suggest that GPUs can function as standalone cognitive processors rather than mere computational accelerators, opening new directions for building AGI systems that "think visually" through massively parallel geometric transformations rather than sequential symbolic manipulation. This work contributes both a theoretical framework for GPU-native neuromorphic computing and a practical implementation demonstrating human-competitive abstract reasoning without traditional memory hierarchies.
+# 🧠 CHIMERA
+## *Cognitive Hybrid Intelligence for Memory-Embedded Reasoning Architecture*
+
+<div align="center">
+
+[![ARC Prize 2025](https://img.shields.io/badge/ARC%20Prize-2025-blue?style=for-the-badge)](https://arcprize.org/)
+[![Neuromorphic Computing](https://img.shields.io/badge/Neuromorphic-Computing-purple?style=for-the-badge)]()
+[![GPU Native](https://img.shields.io/badge/GPU-Native-green?style=for-the-badge)]()
+[![OpenGL Compute](https://img.shields.io/badge/OpenGL-Compute%20Shaders-red?style=for-the-badge)]()
+
+### **A Neuromorphic GPU-Native Intelligence System for Abstract Reasoning Without External Memory Dependencies**
+
+*A revolutionary paradigm where the GPU is not an accelerator, but the thinking substrate itself*
+
+---
+
+**👤 Francisco Angulo de Lafuente** | Independent Researcher  
+**📍 Madrid, Spain** | **🏆 ARC Prize 2025 Competition Entry**
+
+</div>
+
+---
+
+## 🎯 Overview
+
+**CHIMERA** represents a fundamental shift in neuromorphic computing: a system that achieves general intelligence capabilities **entirely within GPU hardware** using OpenGL compute shaders, eliminating all dependencies on external RAM or traditional CPU-based memory hierarchies.
+
+### ⚡ Revolutionary Features
+
+- **🖥️ GPU as Cognitive Substrate**: The GPU doesn't accelerate computations—it *is* the thinking system
+- **🎨 Render-as-Compute Paradigm**: Encodes state, memory, computation, and reasoning directly into GPU textures
+- **🧩 Compositional Reasoning**: From basic pattern recognition (v9.5) to sophisticated program synthesis (v10.0)
+- **⚡ High Performance**: 10-20 tasks/second on consumer GPUs
+- **🎯 AGI Accuracy**: 30-65% on ARC-AGI benchmark
+- **💾 Computational Self-Sufficiency**: All processing in video memory
+
+---
+
+## 📄 Abstract
+
+We present CHIMERA (Cognitive Hybrid Intelligence for Memory-Embedded Reasoning Architecture), a revolutionary neuromorphic computing system that achieves general intelligence capabilities entirely within GPU hardware using OpenGL compute shaders, eliminating all dependencies on external RAM or traditional CPU-based memory hierarchies. 
+
+Unlike conventional neural architectures that treat GPUs merely as accelerators for matrix operations, CHIMERA implements a fundamentally different paradigm where the GPU itself becomes the thinking substrate through a novel "render-as-compute" approach. The system encodes state, memory, computation, and reasoning directly into GPU textures, leveraging fragment shaders as massively parallel cognitive operators. 
+
+We demonstrate CHIMERA's capabilities on the Abstraction and Reasoning Corpus for Artificial General Intelligence (ARC-AGI) benchmark, achieving 30-65% accuracy depending on configuration through a progression from basic pattern recognition (v9.5) to sophisticated compositional reasoning with spatial awareness, object-level cognition, and program synthesis (v10.0). 
+
+The architecture processes visual-spatial transformations at 10-20 tasks per second on consumer GPUs while maintaining complete computational self-sufficiency within video memory. Our results suggest that GPUs can function as standalone cognitive processors rather than mere computational accelerators, opening new directions for building AGI systems that "think visually" through massively parallel geometric transformations rather than sequential symbolic manipulation. 
+
+This work contributes both a theoretical framework for GPU-native neuromorphic computing and a practical implementation demonstrating human-competitive abstract reasoning without traditional memory hierarchies.
+
+---
 
 Keywords: Neuromorphic Computing, GPU-Native Intelligence, Abstract Reasoning, ARC-AGI, Memory-Embedded Architecture, OpenGL Compute Shaders, Visual Thinking, Compositional Generalization, Program Synthesis, Artificial General Intelligence
 1. Introduction
