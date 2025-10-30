@@ -1,0 +1,52 @@
+================================================================================
+CHIMERA v9.5 - PATTERN DECODER BENCHMARK
+================================================================================
+'No es AGI, es criptografia' - Turing approach
+Neuromorphic loop: Estado + Memoria + Resultado = 1 fotograma
+================================================================================
+
+Loaded 100 tasks
+
+================================================================================
+CHIMERA v9.5 - PATTERN DECODER
+================================================================================
+'No es AGI, es criptografía' - Turing approach
+Loop neuromorphic: Estado + Memoria + Resultado = 1 fotograma
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[MEMORY] Global persistent memory: 256x256
+[SHADER] Neuromorphic loop shader compiled
+[BRAIN] v9.5 awakened - Pattern decoder ready
+================================================================================
+Brain ready: NVIDIA GeForce RTX 3090/PCIe/SSE2
+
+  Progress: 10/100 | Avg: 2.02ms | Acc: 0.00% | Age: 0.0s
+  Progress: 20/100 | Avg: 2.05ms | Acc: 0.00% | Age: 0.0s
+  Progress: 30/100 | Avg: 1.74ms | Acc: 0.00% | Age: 0.1s
+  Progress: 40/100 | Avg: 1.62ms | Acc: 2.50% | Age: 0.1s
+  Progress: 50/100 | Avg: 1.42ms | Acc: 1.96% | Age: 0.1s
+  Progress: 60/100 | Avg: 1.41ms | Acc: 1.64% | Age: 0.1s
+  Progress: 70/100 | Avg: 1.37ms | Acc: 1.39% | Age: 0.1s
+  Progress: 80/100 | Avg: 1.30ms | Acc: 1.22% | Age: 0.1s
+  Progress: 90/100 | Avg: 1.29ms | Acc: 1.08% | Age: 0.1s
+  Progress: 100/100 | Avg: 1.31ms | Acc: 0.96% | Age: 0.1s
+
+================================================================================
+CHIMERA v9.5 - RESULTS
+================================================================================
+Tasks: 100
+Avg time: 1.31ms
+Total time: 0.131s
+Accuracy: 0.96% (1/104)
+
+Brain stats:
+  Version: 9.5
+  Tasks: 100
+  Age: 0.13s
+  Status: ALIVE
+================================================================================
+
+Gap to 5%: 4.04%
+================================================================================
+
+Results saved to results/v9_5_benchmark_100_1761726543.json

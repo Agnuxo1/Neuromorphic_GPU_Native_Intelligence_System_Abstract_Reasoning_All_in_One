@@ -1,0 +1,256 @@
+================================================================================
+CHIMERA v7.4 - ARC-AGI2 BENCHMARK (Phases 1-4)
+================================================================================
+Improvements over v7.2:
+  + Massive candidate generation (beam K=64)
+  + Supervised ranking (Hamming/IoU loss)
+  + Hard constraints (palette, validity)
+  + Two diverse attempts
+================================================================================
+
+Loaded 20 tasks
+Evaluating 20 tasks...
+
+
+Task 1/20: 00576224
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.258s
+
+Task 2/20: 007bbfb7
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 3/20: 009d5c81
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.020s
+
+Task 4/20: 00d62c1b
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.019s
+
+Task 5/20: 00dbd492
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 6/20: 017c7c7b
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.016s
+
+Task 7/20: 025d127b
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 8/20: 03560426
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.017s
+
+Task 9/20: 045e512c
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 10/20: 0520fde7
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Progress: 10/20 tasks | Cumulative Accuracy: 0.00% | Avg time: 0.042s/task
+
+Task 11/20: 05269061
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.017s
+
+Task 12/20: 05a7bcf2
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.019s
+
+Task 13/20: 05f2a901
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 14/20: 0607ce86
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 15/20: 0692e18c
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.017s
+
+Task 16/20: 06df4c85
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 17/20: 070dd51e
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 18/20: 08ed6ac7
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.017s
+
+Task 19/20: 09629e4f
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.018s
+
+Task 20/20: 0962bcdd
+================================================================================
+CHIMERA v7.4 - QUICK WINS (Phases 1-4)
+================================================================================
+Phase 1: Massive candidate generation (beam K=64)
+Phase 2: Supervised ranking (Hamming/IoU loss)
+Phase 3: Hard constraints (palette, validity)
+Phase 4: Two diverse attempts (rules + CA)
+================================================================================
+  Accuracy: 0.0% (0/1) | Time: 0.017s
+
+Progress: 20/20 tasks | Cumulative Accuracy: 0.00% | Avg time: 0.030s/task
+
+================================================================================
+BENCHMARK RESULTS
+================================================================================
+Tasks evaluated: 20
+Test cases: 20
+Correct predictions: 0
+Overall accuracy: 0.00%
+Average time per task: 0.030s
+Total time: 0.60s
+================================================================================
+
+Comparison with v7.2:
+  v7.2: 1.92% accuracy, 0.023s/task
+  v7.4: 0.00% accuracy, 0.030s/task
+  No improvement yet
+================================================================================
+
+Results saved to: results/benchmark_v7_4_1761685884.json

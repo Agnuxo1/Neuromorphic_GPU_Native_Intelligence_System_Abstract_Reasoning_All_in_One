@@ -1,0 +1,32 @@
+================================================================================
+CHIMERA v7.5 - OFFICIAL ARC-AGI2 TRAINING SET BENCHMARK
+================================================================================
+Dataset: Official ARC-AGI2 Training (1000 tasks)
+Improvements over v7.2 (4%):
+  + PatternDetector (task classification)
+  + ConditionalColorMapper (context-aware)
+  + GridDiffer (difference analysis)
+  + StrategyRouter (smart routing)
+================================================================================
+Target: 15-20% accuracy
+================================================================================
+
+Loaded 100 tasks from official training set
+Evaluating first 100 tasks...
+
+Task 1/100: 00576224 ... ================================================================================
+CHIMERA v7.5 - PATTERN DETECTION + CONDITIONAL REASONING
+================================================================================
+Target: 15-20% accuracy (4x improvement over v7.2)
+================================================================================
+Traceback (most recent call last):
+  File "D:\ARC2_CHIMERA\CHIMERA_ENIGMA\run_v7_5_benchmark.py", line 220, in <module>
+    run_benchmark(num_tasks=num_tasks, verbose=verbose)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\ARC2_CHIMERA\CHIMERA_ENIGMA\run_v7_5_benchmark.py", line 132, in run_benchmark
+    print(f"{status} {result['accuracy']:.0f}% ({result['correct']}/{result['total']}) {result['time']:.3f}s")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>

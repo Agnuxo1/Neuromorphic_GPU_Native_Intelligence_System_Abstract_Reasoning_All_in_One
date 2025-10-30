@@ -1,0 +1,1275 @@
+
+[BENCHMARK] Loading dataset: training
+Loading tasks from: D:\ARC2_CHIMERA\CHIMERA_ENIGMA\data\arc-agi_training_challenges.json
+[OK] Loaded 1000 tasks
+Loading solutions from: D:\ARC2_CHIMERA\CHIMERA_ENIGMA\data\arc-agi_training_solutions.json
+[OK] Loaded solutions for 1000 tasks
+
+================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY BENCHMARK
+================================================================================
+Improvements:
+  1. Semantic memory (learned transformations)
+  2. CA with learned rules (85% rules + 15% CA)
+  3. Output validation and fallback
+  4. Proper training pair encoding
+Evaluating first 100 tasks from training set
+Target: 5-10% accuracy (vs v7's 0%)
+================================================================================
+[1/100] 00576224... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((2, 2), (6, 6)), ((2, 2), (6, 6))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((2, 2), (6, 6)), ((2, 2), (6, 6))]
+[FAILED] (0.000s)
+[2/100] 007bbfb7... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9))]
+[FAILED] (0.000s)
+[3/100] 009d5c81... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(8): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(8): np.uint8(7)}
+[FAILED] (0.012s)
+[4/100] 00d62c1b... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3)}
+[FAILED] (0.019s)
+[5/100] 00dbd492... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2)}
+[FAILED] (0.019s)
+[6/100] 017c7c7b... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((6, 3), (9, 3)), ((6, 3), (9, 3)), ((6, 3), (9, 3))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((6, 3), (9, 3)), ((6, 3), (9, 3)), ((6, 3), (9, 3))]
+[FAILED] (0.000s)
+[7/100] 025d127b... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(6): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(6): np.uint8(0)}
+[FAILED] (0.006s)
+[8/100] 03560426... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(7): np.uint8(0), np.uint8(8): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(7): np.uint8(0), np.uint8(8): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0)}
+[FAILED] (0.006s)
+[9/100] 045e512c... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6)}
+[FAILED] (0.021s)
+[10/100] 0520fde7... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((3, 7), (3, 3)), ((3, 7), (3, 3)), ((3, 7), (3, 3))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((3, 7), (3, 3)), ((3, 7), (3, 3)), ((3, 7), (3, 3))]
+[FAILED] (0.000s)
+[11/100] 05269061... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(2), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(2), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8)}
+[FAILED] (0.003s)
+[12/100] 05a7bcf2... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(3), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(3), np.uint8(8): np.uint8(8)}
+[FAILED] (0.042s)
+[13/100] 05f2a901... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(8): np.uint8(8)}
+[FAILED] (0.006s)
+[14/100] 0607ce86... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8), np.uint8(6): np.uint8(6)}
+[FAILED] (0.026s)
+[15/100] 0692e18c... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9))]
+[FAILED] (0.000s)
+[16/100] 06df4c85... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(3): np.uint8(3)}
+[FAILED] (0.032s)
+[17/100] 070dd51e... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(2): np.uint8(2), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(2): np.uint8(2), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6)}
+[FAILED] (0.019s)
+[18/100] 08ed6ac7... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(1)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(1)}
+[FAILED] (0.004s)
+[19/100] 09629e4f... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(0), np.uint8(8): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(0), np.uint8(8): np.uint8(0)}
+[FAILED] (0.007s)
+[20/100] 0962bcdd... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(7): np.uint8(7)}
+[FAILED] (0.007s)
+[21/100] 09c534e7... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(6)}
+[FAILED] (0.042s)
+[22/100] 0a1d4ef5... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((30, 30), (2, 3)), ((30, 30), (3, 3)), ((30, 30), (3, 3))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((30, 30), (2, 3)), ((30, 30), (3, 3)), ((30, 30), (3, 3))]
+[FAILED] (0.000s)
+[23/100] 0a2355a6... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(1)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(1)}
+[FAILED] (0.013s)
+[24/100] 0a938d79... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8)}
+[FAILED] (0.015s)
+[25/100] 0b148d64... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((18, 19), (7, 9)), ((21, 21), (10, 10)), ((19, 17), (9, 6))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((18, 19), (7, 9)), ((21, 21), (10, 10)), ((19, 17), (9, 6))]
+[FAILED] (0.000s)
+[26/100] 0b17323b... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1)}
+[FAILED] (0.011s)
+[27/100] 0bb8deee... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((15, 13), (6, 6)), ((12, 13), (6, 6)), ((16, 12), (6, 6))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((15, 13), (6, 6)), ((12, 13), (6, 6)), ((16, 12), (6, 6))]
+[FAILED] (0.000s)
+[28/100] 0becf7df... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(3), np.uint8(2): np.uint8(8), np.uint8(3): np.uint8(1), np.uint8(8): np.uint8(2), np.uint8(4): np.uint8(2), np.uint8(7): np.uint8(3), np.uint8(6): np.uint8(7), np.uint8(9): np.uint8(4)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(3), np.uint8(2): np.uint8(8), np.uint8(3): np.uint8(1), np.uint8(8): np.uint8(2), np.uint8(4): np.uint8(2), np.uint8(7): np.uint8(3), np.uint8(6): np.uint8(7), np.uint8(9): np.uint8(4)}
+[FAILED] (0.006s)
+[29/100] 0c786b71... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((3, 4), (6, 8)), ((3, 4), (6, 8)), ((3, 4), (6, 8))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((3, 4), (6, 8)), ((3, 4), (6, 8)), ((3, 4), (6, 8))]
+[FAILED] (0.000s)
+[30/100] 0c9aba6e... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((13, 4), (6, 4)), ((13, 4), (6, 4)), ((13, 4), (6, 4)), ((13, 4), (6, 4))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((13, 4), (6, 4)), ((13, 4), (6, 4)), ((13, 4), (6, 4)), ((13, 4), (6, 4))]
+[FAILED] (0.000s)
+[31/100] 0ca9ddb6... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8), np.uint8(6): np.uint8(6)}
+[FAILED] (0.005s)
+[32/100] 0d3d703e... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(5): np.uint8(1), np.uint8(6): np.uint8(2), np.uint8(8): np.uint8(9), np.uint8(2): np.uint8(6), np.uint8(3): np.uint8(4), np.uint8(4): np.uint8(3), np.uint8(9): np.uint8(8), np.uint8(1): np.uint8(5)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(5): np.uint8(1), np.uint8(6): np.uint8(2), np.uint8(8): np.uint8(9), np.uint8(2): np.uint8(6), np.uint8(3): np.uint8(4), np.uint8(4): np.uint8(3), np.uint8(9): np.uint8(8), np.uint8(1): np.uint8(5)}
+[FAILED] (0.002s)
+[33/100] 0d87d2a6... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2)}
+[FAILED] (0.027s)
+[34/100] 0e206a2e... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(8): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(8): np.uint8(0)}
+[FAILED] (0.023s)
+[35/100] 0e671a1a... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4)}
+[FAILED] (0.009s)
+[36/100] 0f63c0b9... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3), np.uint8(9): np.uint8(9), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3), np.uint8(9): np.uint8(9), np.uint8(6): np.uint8(6)}
+[FAILED] (0.012s)
+[37/100] 103eff5b... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(4)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(4)}
+[FAILED] (0.020s)
+[38/100] 10fcaaa3... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((5, 3), (10, 6)), ((3, 4), (6, 8)), ((4, 4), (8, 8)), ((2, 4), (4, 8))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((5, 3), (10, 6)), ((3, 4), (6, 8)), ((4, 4), (8, 8)), ((2, 4), (4, 8))]
+[FAILED] (0.000s)
+[39/100] 11852cab... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1)}
+[FAILED] (0.006s)
+[40/100] 1190bc91... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9)}
+[FAILED] (0.004s)
+[41/100] 1190e5a7... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((11, 11), (3, 2)), ((15, 15), (2, 4)), ((27, 27), (6, 5))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((11, 11), (3, 2)), ((15, 15), (2, 4)), ((27, 27), (6, 5))]
+[FAILED] (0.000s)
+[42/100] 11dc524f... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(2): np.uint8(7), np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(2): np.uint8(7), np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7)}
+[FAILED] (0.009s)
+[43/100] 11e1fe23... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3)}
+[FAILED] (0.009s)
+[44/100] 12422b43... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(5): np.uint8(5), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(7): np.uint8(7), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(5): np.uint8(5), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(7): np.uint8(7), np.uint8(6): np.uint8(6)}
+[FAILED] (0.005s)
+[45/100] 12997ef3... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((11, 11), (6, 3)), ((11, 9), (9, 3)), ((11, 10), (3, 6)), ((11, 14), (3, 9))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((11, 11), (6, 3)), ((11, 9), (9, 3)), ((11, 10), (3, 6)), ((11, 14), (3, 9))]
+[FAILED] (0.000s)
+[46/100] 12eac192... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(5): np.uint8(3), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(5): np.uint8(3), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(3)}
+[FAILED] (0.004s)
+[47/100] 13713586... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(6): np.uint8(6)}
+[FAILED] (0.017s)
+[48/100] 137eaa0f... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((11, 11), (3, 3)), ((11, 11), (3, 3)), ((11, 11), (3, 3))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((11, 11), (3, 3)), ((11, 11), (3, 3)), ((11, 11), (3, 3))]
+[FAILED] (0.000s)
+[49/100] 137f0df0... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(5)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(5)}
+[FAILED] (0.006s)
+[50/100] 13f06aa5... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3), np.uint8(6): np.uint8(6)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3), np.uint8(6): np.uint8(6)}
+[FAILED] (0.013s)
+[51/100] 140c817e... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(1): np.uint8(2), np.uint8(9): np.uint8(9), np.uint8(8): np.uint8(1), np.uint8(7): np.uint8(1)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(1): np.uint8(2), np.uint8(9): np.uint8(9), np.uint8(8): np.uint8(1), np.uint8(7): np.uint8(1)}
+[FAILED] (0.010s)
+[52/100] 14754a24... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5)}
+[FAILED] (0.018s)
+[53/100] 1478ab18... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7)}
+[FAILED] (0.004s)
+[54/100] 14b8e18c... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8)}
+[FAILED] (0.006s)
+[55/100] 150deff5... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(8)}
+[FAILED] (0.005s)
+[56/100] 15113be4... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3)}
+[FAILED] (0.026s)
+[57/100] 15660dd6... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((19, 19), (5, 17)), ((22, 29), (6, 27))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((19, 19), (5, 17)), ((22, 29), (6, 27))]
+[FAILED] (0.000s)
+[58/100] 15663ba9... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3), np.uint8(1): np.uint8(1)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3), np.uint8(1): np.uint8(1)}
+[FAILED] (0.012s)
+[59/100] 15696249... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9)), ((3, 3), (9, 9))]
+[FAILED] (0.000s)
+[60/100] 17829a00... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(2): np.uint8(2), np.uint8(5): np.uint8(5)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(2): np.uint8(2), np.uint8(5): np.uint8(5)}
+[FAILED] (0.014s)
+[61/100] 178fcbfb... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3)}
+[FAILED] (0.007s)
+[62/100] 17b80ad2... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(9): np.uint8(9)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(9): np.uint8(9)}
+[FAILED] (0.015s)
+[63/100] 17b866bd... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(0), np.uint8(7): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(0), np.uint8(7): np.uint8(0)}
+[FAILED] (0.030s)
+[64/100] 17cae0c1... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(1), np.uint8(5): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(1), np.uint8(5): np.uint8(3)}
+[FAILED] (0.003s)
+[65/100] 18286ef8... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(9), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(5), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(9), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(5), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3)}
+[FAILED] (0.018s)
+[66/100] 182e5d0f... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(7), np.uint8(5): np.uint8(7), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(7), np.uint8(5): np.uint8(7), np.uint8(7): np.uint8(7)}
+[FAILED] (0.011s)
+[67/100] 18419cfa... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8)}
+[FAILED] (0.033s)
+[68/100] 18447a8d... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(1): np.uint8(7), np.uint8(3): np.uint8(7), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(7), np.uint8(2): np.uint8(7), np.uint8(4): np.uint8(7), np.uint8(6): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(1): np.uint8(7), np.uint8(3): np.uint8(7), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(7), np.uint8(2): np.uint8(7), np.uint8(4): np.uint8(7), np.uint8(6): np.uint8(7)}
+[FAILED] (0.010s)
+[69/100] 184a9768... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(0), np.uint8(8): np.uint8(0), np.uint8(6): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(0), np.uint8(8): np.uint8(0), np.uint8(6): np.uint8(0)}
+[FAILED] (0.031s)
+[70/100] 195ba7dc... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((5, 13), (5, 6)), ((5, 13), (5, 6)), ((5, 13), (5, 6)), ((5, 13), (5, 6))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((5, 13), (5, 6)), ((5, 13), (5, 6)), ((5, 13), (5, 6)), ((5, 13), (5, 6))]
+[FAILED] (0.000s)
+[71/100] 1990f7a8... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((17, 19), (7, 7)), ((23, 23), (7, 7)), ((17, 16), (7, 7))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((17, 19), (7, 7)), ((23, 23), (7, 7)), ((17, 16), (7, 7))]
+[FAILED] (0.000s)
+[72/100] 19bb5feb... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((16, 15), (2, 2)), ((13, 15), (2, 2)), ((14, 16), (2, 2))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((16, 15), (2, 2)), ((13, 15), (2, 2)), ((14, 16), (2, 2))]
+[FAILED] (0.000s)
+[73/100] 1a07d186... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(0), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(0), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8)}
+[FAILED] (0.023s)
+[74/100] 1a244afd... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(1): np.uint8(1), np.uint8(6): np.uint8(8), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(1): np.uint8(1), np.uint8(6): np.uint8(8), np.uint8(8): np.uint8(8)}
+[FAILED] (0.014s)
+[75/100] 1a2e2828... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((11, 12), (1, 1)), ((9, 11), (1, 1)), ((11, 11), (1, 1)), ((3, 3), (1, 1)), ((8, 12), (1, 1))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((11, 12), (1, 1)), ((9, 11), (1, 1)), ((11, 11), (1, 1)), ((3, 3), (1, 1)), ((8, 12), (1, 1))]
+[FAILED] (0.008s)
+[76/100] 1a6449f1... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((21, 23), (8, 10)), ((19, 13), (6, 7)), ((22, 21), (4, 5))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((21, 23), (8, 10)), ((19, 13), (6, 7)), ((22, 21), (4, 5))]
+[FAILED] (0.000s)
+[77/100] 1acc24af... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(5): np.uint8(2)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(5): np.uint8(2)}
+[FAILED] (0.008s)
+[78/100] 1b2d62fb... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((5, 7), (5, 3)), ((5, 7), (5, 3)), ((5, 7), (5, 3)), ((5, 7), (5, 3)), ((5, 7), (5, 3))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((5, 7), (5, 3)), ((5, 7), (5, 3)), ((5, 7), (5, 3)), ((5, 7), (5, 3)), ((5, 7), (5, 3))]
+[FAILED] (0.000s)
+[79/100] 1b59e163... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(1): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(4), np.uint8(6): np.uint8(4), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(1): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(4), np.uint8(6): np.uint8(4), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8)}
+[FAILED] (0.016s)
+[80/100] 1b60fb0c... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1)}
+[FAILED] (0.006s)
+[81/100] 1b8318e3... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(0), np.uint8(7): np.uint8(0), np.uint8(9): np.uint8(0), np.uint8(8): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(0), np.uint8(7): np.uint8(0), np.uint8(9): np.uint8(0), np.uint8(8): np.uint8(0)}
+[FAILED] (0.012s)
+[82/100] 1be83260... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((27, 15), (23, 11)), ((17, 19), (11, 11))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((27, 15), (23, 11)), ((17, 19), (11, 11))]
+[FAILED] (0.000s)
+[83/100] 1bfc4729... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7)}
+[FAILED] (0.006s)
+[84/100] 1c02dbbe... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(2): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(6): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(2): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(6): np.uint8(0)}
+[FAILED] (0.012s)
+[85/100] 1c0d0a4b... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(0)}
+[FAILED] (0.009s)
+[86/100] 1c56ad9f... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3)}
+[FAILED] (0.012s)
+[87/100] 1c786137... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((13, 16), (5, 3)), ((23, 21), (6, 8)), ((17, 18), (8, 10))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((13, 16), (5, 3)), ((23, 21), (6, 8)), ((17, 18), (8, 10))]
+[FAILED] (0.000s)
+[88/100] 1caeab9d... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(0), np.uint8(4): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(0), np.uint8(4): np.uint8(0)}
+[FAILED] (0.006s)
+[89/100] 1cf80156... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {}
+[MEMORY] Detected size transitions: [((11, 12), (5, 3)), ((10, 12), (4, 4)), ((12, 12), (3, 5))]
+[MEMORY] Learning complete. Confidence: 0.20
+  Size transitions: [((11, 12), (5, 3)), ((10, 12), (4, 4)), ((12, 12), (3, 5))]
+[FAILED] (0.000s)
+[90/100] 1d0a4b61... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(3), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(5): np.uint8(5), np.uint8(4): np.uint8(4)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(3), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(5): np.uint8(5), np.uint8(4): np.uint8(4)}
+[FAILED] (0.030s)
+[91/100] 1d398264... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(1): np.uint8(1), np.uint8(3): np.uint8(3), np.uint8(7): np.uint8(7)}
+[FAILED] (0.021s)
+[92/100] 1d61978c... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(5): np.uint8(8), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(5): np.uint8(8), np.uint8(7): np.uint8(7)}
+[FAILED] (0.013s)
+[93/100] 1da012fc... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(4), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(4), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(3)}
+[FAILED] (0.023s)
+[94/100] 1e0a9b12... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(0), np.uint8(9): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(6): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(0), np.uint8(9): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(6): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(3)}
+[FAILED] (0.002s)
+[95/100] 1e32b0e9... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(8): np.uint8(8), np.uint8(3): np.uint8(3)}
+[FAILED] (0.014s)
+[96/100] 1e5d6875... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(2): np.uint8(2), np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(2): np.uint8(2), np.uint8(5): np.uint8(5), np.uint8(7): np.uint8(7)}
+[FAILED] (0.013s)
+[97/100] 1e81d6f9... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9)}
+[FAILED] (0.012s)
+[98/100] 1efba499... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(7): np.uint8(7), np.uint8(5): np.uint8(0), np.uint8(9): np.uint8(0)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(4): np.uint8(4), np.uint8(6): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(7): np.uint8(7), np.uint8(5): np.uint8(0), np.uint8(9): np.uint8(0)}
+[FAILED] (0.009s)
+[99/100] 1f0c79e5... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(6), np.uint8(6): np.uint8(6), np.uint8(3): np.uint8(3), np.uint8(7): np.uint8(7), np.uint8(4): np.uint8(4)}
+[MEMORY] Learning complete. Confidence: 0.55
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(6), np.uint8(6): np.uint8(6), np.uint8(3): np.uint8(3), np.uint8(7): np.uint8(7), np.uint8(4): np.uint8(4)}
+[FAILED] (0.005s)
+[100/100] 1f642eb9... ================================================================================
+CHIMERA v7.1 - FIXED BIOLOGICAL MEMORY
+================================================================================
+Memory: Learned transformations (not pixel blending)
+CA: Semantic operations + learned rules
+Output: Validated with intelligent fallback
+================================================================================
+[MEMORY] Learning from training examples...
+[MEMORY] Detected color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(4): np.uint8(4), np.uint8(9): np.uint8(9)}
+[MEMORY] Learning complete. Confidence: 0.30
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(6): np.uint8(6), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(4): np.uint8(4), np.uint8(9): np.uint8(9)}
+[FAILED] (0.006s)
+
+
+================================================================================
+CHIMERA v7.1 FIXED - RESULTS
+================================================================================
+Tasks Completed: 100/100
+Perfect Solutions: 0/100
+Average Accuracy: 0.00%
+Total Time: 1.02s (0.02 min)
+Avg Time per Task: 0.0102s
+
+================================================================================
+v7.1 IMPROVEMENTS VALIDATION:
+================================================================================
+  [OK] Semantic memory (learned transformations)
+  [OK] Color mapping detection and application
+  [OK] Size transition learning
+  [OK] Rotation/reflection pattern detection
+  [OK] Fallback rules when CA fails
+  [OK] Output validation (ARC compliance)
+
+================================================================================
+COMPARISON WITH BASELINES:
+================================================================================
+  v5.3: 2.02% accuracy (sequence model)
+  v7 (original): 0.00% accuracy (GPU+memory issues)
+  v7.1 (fixed): 0.00% accuracy (learned transformations)
+  Improvement: 0.00%
+
+================================================================================
+
+Results saved to: results\evaluation_v7_1_fixed.json

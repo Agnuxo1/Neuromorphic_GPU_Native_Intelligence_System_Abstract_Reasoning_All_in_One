@@ -1,0 +1,260 @@
+================================================================================
+CHIMERA v7.2 - ARC-AGI2 BENCHMARK
+================================================================================
+Architecture: Unified GPU with Semantic Memory
+Fixes: 5 critical weaknesses from v7.1
+================================================================================
+
+Loaded 1000 tasks
+Evaluating first 20 tasks...
+
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.40
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.40
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(8): np.uint8(7)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.20
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(6): np.uint8(0)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(7): np.uint8(0), np.uint8(8): np.uint8(0), np.uint8(1): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.20
+Progress: 10/20 tasks | Accuracy: 10.00% | Avg time: 0.045s/task
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(2), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(3), np.uint8(8): np.uint8(8)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(8): np.uint8(8)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(3): np.uint8(3), np.uint8(8): np.uint8(8), np.uint8(6): np.uint8(6)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.40
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(1): np.uint8(1), np.uint8(2): np.uint8(2), np.uint8(4): np.uint8(4), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(3): np.uint8(3)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(3): np.uint8(3), np.uint8(4): np.uint8(4), np.uint8(7): np.uint8(7), np.uint8(8): np.uint8(8), np.uint8(9): np.uint8(9), np.uint8(2): np.uint8(2), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(6)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(5): np.uint8(1)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(2): np.uint8(0), np.uint8(3): np.uint8(0), np.uint8(4): np.uint8(0), np.uint8(5): np.uint8(5), np.uint8(6): np.uint8(0), np.uint8(8): np.uint8(0)}
+================================================================================
+CHIMERA v7.2 - FIXED UNIFIED GPU ARCHITECTURE
+================================================================================
+Memory: Transformation rules (not pixel blending)
+CA: Semantic operations + supervised evolution
+Validation: Intelligent fallback when needed
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2
+[GPU] Ready for ultra-fast rendering-based reasoning
+[MEMORY] Learning transformations from training examples...
+[MEMORY] Learning complete. Confidence: 0.80
+  Color mappings: {np.uint8(0): np.uint8(0), np.uint8(6): np.uint8(6), np.uint8(8): np.uint8(8), np.uint8(2): np.uint8(2), np.uint8(7): np.uint8(7)}
+Progress: 20/20 tasks | Accuracy: 5.00% | Avg time: 0.031s/task
+
+================================================================================
+BENCHMARK RESULTS
+================================================================================
+Tasks evaluated: 20
+Test cases: 20
+Correct predictions: 1
+Overall accuracy: 5.00%
+Average time per task: 0.031s
+Total time: 0.63s
+================================================================================
+
+Results saved to: results/benchmark_v7_2_1761683364.json

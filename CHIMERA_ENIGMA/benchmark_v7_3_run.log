@@ -1,0 +1,186 @@
+================================================================================
+CHIMERA v7.3 - ARC-AGI2 BENCHMARK
+================================================================================
+Architecture: Unified GPU + Massive Candidate Ranking
+================================================================================
+
+Loaded 20 tasks
+Evaluating 20 tasks...
+
+
+Task 1/20: 00576224
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.709s
+
+Task 2/20: 007bbfb7
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.974s
+
+Task 3/20: 009d5c81
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.340s
+
+Task 4/20: 00d62c1b
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.987s
+
+Task 5/20: 00dbd492
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 1.376s
+
+Task 6/20: 017c7c7b
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.636s
+
+Task 7/20: 025d127b
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.902s
+
+Task 8/20: 03560426
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.209s
+
+Task 9/20: 045e512c
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.227s
+
+Task 10/20: 0520fde7
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.650s
+
+Progress: 10/20 tasks | Cumulative Accuracy: 0.00% | Avg time: 0.701s/task
+
+Task 11/20: 05269061
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.884s
+
+Task 12/20: 05a7bcf2
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.249s
+
+Task 13/20: 05f2a901
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 3.194s
+
+Task 14/20: 0607ce86
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 1.699s
+
+Task 15/20: 0692e18c
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.621s
+
+Task 16/20: 06df4c85
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.727s
+
+Task 17/20: 070dd51e
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 1.023s
+
+Task 18/20: 08ed6ac7
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.698s
+
+Task 19/20: 09629e4f
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 1.993s
+
+Task 20/20: 0962bcdd
+================================================================================
+CHIMERA v7.3 - Unified GPU Frame (Rules+CA) with Massive Candidate Ranking
+================================================================================
+[GPU] NVIDIA GeForce RTX 3090/PCIe/SSE2 | 3.3.0 NVIDIA 581.29
+[GPU] Context OK (future parallelization enabled).
+  Accuracy: 0.0% (0/1) | Time: 0.805s
+
+Progress: 20/20 tasks | Cumulative Accuracy: 0.00% | Avg time: 0.945s/task
+
+================================================================================
+BENCHMARK RESULTS
+================================================================================
+Tasks evaluated: 20
+Test cases: 20
+Correct predictions: 0
+Overall accuracy: 0.00%
+Average time per task: 0.945s
+Total time: 18.90s
+================================================================================
+
+Results saved to: results/benchmark_v7_3_1761685221.json

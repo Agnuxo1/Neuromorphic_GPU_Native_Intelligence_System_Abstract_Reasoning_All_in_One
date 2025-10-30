@@ -1,0 +1,119 @@
+================================================================================
+CHIMERA v9.6 - BENCHMARK
+================================================================================
+Testing on 100 tasks
+================================================================================
+[BRAIN] v9.6 alive. GPU: ON
+[1/100] 00576224: ERROR - all input arrays must have the same shape
+[2/100] 007bbfb7: ERROR - all input arrays must have the same shape
+[3/100] 009d5c81: 13.7ms | 0/1 | MISS
+[4/100] 00d62c1b: 6.2ms | 0/1 | MISS
+[5/100] 00dbd492: 4.5ms | 0/1 | MISS
+[6/100] 017c7c7b: ERROR - all input arrays must have the same shape
+[7/100] 025d127b: 2.3ms | 0/1 | MISS
+[8/100] 03560426: 4.4ms | 0/1 | MISS
+[9/100] 045e512c: 4.0ms | 0/1 | MISS
+[10/100] 0520fde7: ERROR - all input arrays must have the same shape
+[11/100] 05269061: 3.2ms | 0/1 | MISS
+[12/100] 05a7bcf2: 5.8ms | 0/1 | MISS
+[13/100] 05f2a901: 3.6ms | 0/1 | MISS
+[14/100] 0607ce86: 4.1ms | 0/1 | MISS
+[15/100] 0692e18c: ERROR - all input arrays must have the same shape
+[16/100] 06df4c85: 4.3ms | 0/1 | MISS
+[17/100] 070dd51e: 3.0ms | 0/1 | MISS
+[18/100] 08ed6ac7: 2.2ms | 0/1 | MISS
+[19/100] 09629e4f: 4.8ms | 0/1 | MISS
+[20/100] 0962bcdd: 2.2ms | 0/1 | MISS
+[21/100] 09c534e7: 4.2ms | 0/1 | MISS
+[22/100] 0a1d4ef5: ERROR - all input arrays must have the same shape
+[23/100] 0a2355a6: 4.7ms | 0/1 | MISS
+[24/100] 0a938d79: 4.6ms | 0/1 | MISS
+[25/100] 0b148d64: ERROR - all input arrays must have the same shape
+[26/100] 0b17323b: 2.3ms | 0/1 | MISS
+[27/100] 0bb8deee: ERROR - all input arrays must have the same shape
+[28/100] 0becf7df: 3.3ms | 0/1 | MISS
+[29/100] 0c786b71: ERROR - all input arrays must have the same shape
+[30/100] 0c9aba6e: ERROR - all input arrays must have the same shape
+[31/100] 0ca9ddb6: 3.3ms | 0/1 | MISS
+[32/100] 0d3d703e: 3.7ms | 0/1 | MISS
+[33/100] 0d87d2a6: 3.9ms | 0/1 | MISS
+[34/100] 0e206a2e: 3.8ms | 0/1 | MISS
+[35/100] 0e671a1a: 4.8ms | 0/1 | MISS
+[36/100] 0f63c0b9: 4.8ms | 0/1 | MISS
+[37/100] 103eff5b: 3.0ms | 0/1 | MISS
+[38/100] 10fcaaa3: ERROR - all input arrays must have the same shape
+[39/100] 11852cab: 3.3ms | 0/1 | MISS
+[40/100] 1190bc91: 3.4ms | 0/1 | MISS
+[41/100] 1190e5a7: ERROR - all input arrays must have the same shape
+[42/100] 11dc524f: 3.7ms | 0/1 | MISS
+[43/100] 11e1fe23: 2.3ms | 0/1 | MISS
+[44/100] 12422b43: 5.1ms | 0/1 | MISS
+[45/100] 12997ef3: ERROR - all input arrays must have the same shape
+[46/100] 12eac192: 4.3ms | 0/1 | MISS
+[47/100] 13713586: 4.0ms | 0/1 | MISS
+[48/100] 137eaa0f: ERROR - all input arrays must have the same shape
+[49/100] 137f0df0: 3.1ms | 0/1 | MISS
+[50/100] 13f06aa5: 3.5ms | 0/1 | MISS
+[51/100] 140c817e: 3.6ms | 0/1 | MISS
+[52/100] 14754a24: 4.9ms | 0/1 | MISS
+[53/100] 1478ab18: 3.2ms | 0/1 | MISS
+[54/100] 14b8e18c: 3.4ms | 0/1 | MISS
+[55/100] 150deff5: 3.2ms | 0/1 | MISS
+[56/100] 15113be4: 4.7ms | 0/1 | MISS
+[57/100] 15660dd6: ERROR - all input arrays must have the same shape
+[58/100] 15663ba9: 3.3ms | 0/1 | MISS
+[59/100] 15696249: ERROR - all input arrays must have the same shape
+[60/100] 17829a00: 2.5ms | 0/1 | MISS
+[61/100] 178fcbfb: 3.3ms | 0/1 | MISS
+[62/100] 17b80ad2: 4.8ms | 0/1 | MISS
+[63/100] 17b866bd: 2.9ms | 0/2 | MISS
+[64/100] 17cae0c1: 3.9ms | 0/1 | MISS
+[65/100] 18286ef8: 3.4ms | 0/1 | MISS
+[66/100] 182e5d0f: 3.8ms | 0/1 | MISS
+[67/100] 18419cfa: 3.9ms | 0/1 | MISS
+[68/100] 18447a8d: 3.8ms | 0/1 | MISS
+[69/100] 184a9768: 4.6ms | 0/1 | MISS
+[70/100] 195ba7dc: ERROR - all input arrays must have the same shape
+[71/100] 1990f7a8: ERROR - all input arrays must have the same shape
+[72/100] 19bb5feb: ERROR - all input arrays must have the same shape
+[73/100] 1a07d186: 3.9ms | 0/1 | MISS
+[74/100] 1a244afd: 3.3ms | 0/1 | MISS
+[75/100] 1a2e2828: ERROR - all input arrays must have the same shape
+[76/100] 1a6449f1: ERROR - all input arrays must have the same shape
+[77/100] 1acc24af: 4.2ms | 0/1 | MISS
+[78/100] 1b2d62fb: ERROR - all input arrays must have the same shape
+[79/100] 1b59e163: 3.0ms | 0/1 | MISS
+[80/100] 1b60fb0c: 3.3ms | 0/1 | MISS
+[81/100] 1b8318e3: 3.8ms | 0/1 | MISS
+[82/100] 1be83260: ERROR - all input arrays must have the same shape
+[83/100] 1bfc4729: 2.1ms | 0/1 | MISS
+[84/100] 1c02dbbe: 3.9ms | 0/1 | MISS
+[85/100] 1c0d0a4b: 3.3ms | 0/1 | MISS
+[86/100] 1c56ad9f: 4.8ms | 0/1 | MISS
+[87/100] 1c786137: ERROR - all input arrays must have the same shape
+[88/100] 1caeab9d: 3.2ms | 0/1 | MISS
+[89/100] 1cf80156: ERROR - all input arrays must have the same shape
+[90/100] 1d0a4b61: 4.7ms | 0/1 | MISS
+[91/100] 1d398264: 3.6ms | 0/2 | MISS
+[92/100] 1d61978c: 2.6ms | 0/1 | MISS
+[93/100] 1da012fc: 3.2ms | 0/1 | MISS
+[94/100] 1e0a9b12: 3.5ms | 0/1 | MISS
+[95/100] 1e32b0e9: 3.7ms | 0/1 | MISS
+[96/100] 1e5d6875: 2.3ms | 0/1 | MISS
+[97/100] 1e81d6f9: 3.6ms | 0/1 | MISS
+[98/100] 1efba499: 3.6ms | 0/1 | MISS
+[99/100] 1f0c79e5: 4.2ms | 0/1 | MISS
+[100/100] 1f642eb9: 3.2ms | 0/1 | MISS
+================================================================================
+SUMMARY
+================================================================================
+Tasks processed: 100
+Total test items: 104
+Correct predictions: 0/104
+Accuracy: 0.00%
+Avg time per task: 2.88ms
+Total time: 0.29s
+Throughput: 342.35 tasks/sec
+================================================================================
+
+Brain stats: {'version': '9.6', 'gpu': True, 'tasks_processed': 100, 'alive_seconds': 0.2921473979949951}

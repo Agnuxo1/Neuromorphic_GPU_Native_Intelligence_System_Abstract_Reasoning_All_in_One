@@ -1,0 +1,14 @@
+# CHIMERA v5 - Dependencies
+# Minimal requirements for cryptographic CA engine
+
+# Core dependencies (required)
+numpy>=1.20.0
+scipy>=1.7.0
+
+# GPU acceleration (optional but recommended)
+moderngl>=5.6.0
+# Note: moderngl requires OpenGL drivers on your system
+
+# Optional: For visualization (if implementing later)
+# pillow>=8.0.0
+# matplotlib>=3.0.0
